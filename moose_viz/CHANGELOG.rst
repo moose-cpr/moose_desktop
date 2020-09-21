@@ -2,8 +2,8 @@
 Changelog for package moose_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.1 (2020-09-21)
+------------------
 * [moose_viz] Updated robot_state_publisher to robot_state_publisher_gui.
 * Contributors: Tony Baltovski
 
